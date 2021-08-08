@@ -1,6 +1,4 @@
----
-draft: true;
----
+# Under Construction
 
 # 常温核融合とは？
 
