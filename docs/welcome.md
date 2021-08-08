@@ -3,7 +3,7 @@ sidebar_position: 1
 title: "Welcome"
 ---
 
-# Fusionnica
+# ようこそ、Fusionnica へ！
 
 世界各国でちらほらと注目を集めてきた核融合。
 

@@ -21,6 +21,11 @@ module.exports = {
       },
       items: [
         {
+          href: "https://twitter.com/fusionnica",
+          label: "Twitter",
+          position: "right",
+        },
+        {
           href: "https://github.com/schroneko/fusionnica",
           label: "GitHub",
           position: "right",
