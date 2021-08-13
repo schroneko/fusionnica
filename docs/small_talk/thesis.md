@@ -12,7 +12,6 @@
 - [The International Symposium on Fusion Nuclear Technology (ISFNT)](https://www.google.com/search?q=ISFNT+fusion)
 - [The Symposium on Fusion Technology (SOFT)](https://www.google.com/search?q=SOFT+fusion)
 - [Symposium on Fusion Engineering (SOFE)](https://www.google.com/search?q=SOFE+fusion)
-
 - [American Physical Society (APS)](https://www.aps.org/)
-
 - [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/)
+- [UKEAE](https://www.gov.uk/government/organisations/uk-atomic-energy-authority)

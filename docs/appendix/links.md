@@ -15,3 +15,5 @@
 - [Science Direct](https://www.sciencedirect.com/)
 
 言わずとしれた Elsevier の論文検索サービス。一般でもアブストラクトを読む事ができるが、もし大学や研究機関のアカウントがあれば無制限アクセス可能となり論文が読み放題です。
+
+- [EUROfusion](https://www.euro-fusion.org)

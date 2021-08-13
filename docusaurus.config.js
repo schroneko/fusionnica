@@ -56,8 +56,7 @@ module.exports = {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl:
-            "https://github.com/schroneko/fusionnica/edit/master/website/",
+          editUrl: "https://github.com/schroneko/fusionnica/edit/main/website/",
         },
         // blog: {
         //   showReadingTime: true,
