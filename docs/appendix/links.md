@@ -17,3 +17,5 @@
 言わずとしれた Elsevier の論文検索サービス。一般でもアブストラクトを読む事ができるが、もし大学や研究機関のアカウントがあれば無制限アクセス可能となり論文が読み放題です。
 
 - [EUROfusion](https://www.euro-fusion.org)
+
+- [文部科学省の核融合まとめページ](https://www.mext.go.jp/a_menu/shinkou/fusion/)
