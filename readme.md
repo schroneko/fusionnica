@@ -10,4 +10,4 @@ This repo holds the source code of the docs site.
 
 ---
 
-- Created by [@schroneko](https://github.com/schroneko) at [Determinant].
+- Created by [@schroneko](https://github.com/schroneko) at [Determinant]().
