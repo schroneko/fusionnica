@@ -71,7 +71,7 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <> {new Date().getFullYear()} © Determinant</>,
+  footerText: <> {new Date().getFullYear()} © Determinant, Inc.</>,
   unstable_faviconGlyph: '👋',
   i18n: [
     { locale: 'ja', text: '日本語' },
